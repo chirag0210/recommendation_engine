@@ -1,8 +1,8 @@
 ## File Types
-** 1. scss **  -   modular css. same file used multiple time will have identity for each elemen
-** 2. tsx **      -   optimized html with typescript
-** 3. ts **       -   typescript
-** 4. js **       -   simple typescript
+1. scss -   modular css. same file used multiple time will have identity for each elemen
+**2. tsx**      -   optimized html with typescript
+**3. ts**       -   typescript
+**4. js**       -   simple typescript
 
 ## Code / Directory Structure for the Frontend / UI server
 ## 1. package.json - contains basic project information like author, name, version, 3rd party libraries used, dependencies, packages, etc
