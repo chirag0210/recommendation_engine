@@ -1,5 +1,5 @@
 ## File Types
-1. scss -   modular css. same file used multiple time will have identity for each elemen
+**1. scss**     -   modular css. same file used multiple time will have identity for each element
 **2. tsx**      -   optimized html with typescript
 **3. ts**       -   typescript
 **4. js**       -   simple typescript
